@@ -1,1 +1,1 @@
-# AppiumTestScripts
+# AppiumTestScripts (For mobile app testing)
